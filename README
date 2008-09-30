@@ -6,6 +6,8 @@ an entry.
 
 2. Provide a reporting mechanism which displays time pie charts.
 
+3. Allow notes to be optionally recorded against tasks.
+
 
 Rules
 1. An entry should consist of a start time, project and description.
