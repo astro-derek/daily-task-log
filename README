@@ -1,4 +1,11 @@
+DAILY TASK LOG
+
 Requirements
-Record activity throughout the day by running the program and making
-an entry. An entry should consist of a start time, project and
-description.
+1. Record activity throughout the day by running the program and making
+an entry.
+
+2. Provide a reporting mechanism which displays time pie charts.
+
+
+Rules
+1. An entry should consist of a start time, project and description.
