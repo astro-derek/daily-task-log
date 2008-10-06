@@ -1,13 +1,20 @@
 DAILY TASK LOG
 
+
 Requirements
 1. Record activity throughout the day by running the program and making
-an entry.
+persistent entries which consist of the unit, start time and an optional
+note.
 
-2. Provide a reporting mechanism which displays time pie charts.
+2. Provide a reporting mechanism which displays "clock charts". Reporting
+should allow a range of dates to be chosen for which a clock chart will be
+shown for each day and optionally display a pie-chart displaying the 
+percentage of time spent on each unit overall.
 
-3. Allow notes to be optionally recorded against tasks.
+3. Units should be colour coded.
 
 
-Rules
-1. An entry should consist of a start time, project and description.
+Definitions
+Unit      Description of some work that needs to be done.
+Entry     A persistent recording of a unit.
+Note      Description of what was done during an entry.
